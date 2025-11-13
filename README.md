@@ -1,8 +1,8 @@
-##Simple Sign-Up Page
+#Simple Sign-Up Page
 
 A clean and responsive Sign-Up Page built using HTML and CSS. This project demonstrates my skills and interest in web development, focusing on creating visually appealing and user-friendly web forms.
 
-##Features##
+#Features
 
 *Simple and Clean Design: Minimalist layout for better user experience.
 
@@ -10,7 +10,7 @@ A clean and responsive Sign-Up Page built using HTML and CSS. This project demon
 
 *CSS Styling: Custom styling for inputs, buttons, and layout to make the page attractive.
 
-##Skills Showcased##
+#Skills Showcased
 
 *HTML form structure and semantic tags
 
@@ -20,5 +20,6 @@ A clean and responsive Sign-Up Page built using HTML and CSS. This project demon
 
 *Basic UI/UX considerations
 
-#demo#
+#demo
+
 https://vasanthanviper.github.io/Facebook-Sign-In-Page/
